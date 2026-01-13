@@ -1,0 +1,52 @@
+## ✅ Run Streamlit Using GitHub Codespaces
+
+### 🔹 Step 1: Open Codespaces
+
+1. Go to your **GitHub repository**
+2. Click **Code** (green button)
+3. Click **Codespaces** tab
+4. Click **Create codespace on main**
+
+⏳ Wait till VS Code opens in your browser.
+
+---
+
+### 🔹 Step 2: Install Requirements
+
+In the **terminal at the bottom**, run:
+
+run:
+
+```bash
+pip install streamlit
+```
+
+---
+
+### 🔹 Step 3: Run Streamlit App
+
+```bash
+streamlit run app.py
+```
+
+### 🔹 Step 4: Open in Browser
+
+After running, GitHub will show:
+
+> ⚡ Application running on port 8501
+
+Click **Open in Browser**
+or go to **Ports tab → click the globe icon 🌐**
+
+🎉 Your Streamlit app opens — fully online!
+
+---
+
+## ⚠️ Important Notes
+
+* ✅ No software installation needed
+* ❌ When you stop Codespace, app stops (not permanent hosting)
+* ⏱ Free tier has limited hours per month
+
+---
+
