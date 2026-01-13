@@ -1,0 +1,166 @@
+# 🆔 Enhanced UIDAI Duplicate Risk Intelligence System
+
+## User Guide – Step by Step
+
+---
+
+## 🔐 **Step 1: Login**
+
+1. Open the application in your browser.
+2. Enter your **username and password** on the login screen.
+3. Click **Login**.
+4. Once authenticated, you will be redirected to the main dashboard.
+5. Access and data visibility depend on your **user role**.
+
+---
+
+## 📊 **Step 2: Dashboard Overview**
+
+After login, the **Dashboard** opens by default.
+
+### What you see:
+
+* **State selector**
+* **District selector**
+* Four information cards:
+
+  * **Enrollments**
+  * **Demographic Updates**
+  * **Biometric Updates**
+  * **Risk Score**
+
+### How to use:
+
+1. Select a **State** from the dropdown.
+2. Select a **District** from the next dropdown.
+3. The dashboard updates automatically.
+
+### Risk Indicators:
+
+* ✅ **Green** – Low Risk
+* ⚠️ **Yellow** – Medium Risk
+* 🚨 **Red** – High Duplicate Risk
+
+---
+
+## 🔗 **Step 3: Blockchain Audit Proof**
+
+1. Scroll down on the dashboard.
+2. You will see a **Blockchain Audit Proof (hash)**.
+3. This hash ensures:
+
+   * Data integrity
+   * Tamper-proof verification
+4. Same data always generates the same hash.
+
+---
+
+## 🚨 **Step 4: Alerts Section**
+
+1. Click **“Alerts”** from the left sidebar.
+2. View all **High-Risk Districts**.
+3. Each row shows:
+
+   * State
+   * District
+   * Risk Score
+4. If no high-risk areas exist, a success message is shown.
+
+---
+
+## 🔗 **Step 5: Blockchain Audit Page**
+
+1. Open **“Blockchain Audit”** from the sidebar.
+2. View all districts with:
+
+   * Risk level
+   * Generated blockchain hash
+3. This page helps in **cross-verifying records** across regions.
+
+---
+
+## 📜 **Step 6: Audit Logs**
+
+1. Click **“Audit Logs”** in the sidebar.
+2. See a complete history of:
+
+   * User actions
+   * Viewed states/districts
+3. Useful for:
+
+   * Monitoring usage
+   * Compliance
+   * Accountability
+
+---
+
+## 🤖 **Step 7: AI Assistant (Support)**
+
+### Option 1: Sidebar
+
+1. Click **“Support”** in the sidebar.
+
+### Option 2: Floating Chat Button
+
+1. Click the **💬 chat icon** at the **bottom-right corner**.
+2. The AI Assistant opens instantly.
+
+### What you can ask:
+
+* Risk explanations
+* Alert meanings
+* Blockchain verification help
+* General system guidance
+
+---
+
+## 🎨 **Step 8: Change Background Color**
+
+1. Look at the **left sidebar**.
+2. Use the **color picker** under *Appearance*.
+3. Select your preferred background color.
+4. The page updates instantly.
+5. This helps reduce eye strain and improves usability.
+
+---
+
+## 🚨 **Step 9: Alerts Summary (Sidebar)**
+
+* Always visible on the sidebar.
+* Shows the **number of high-risk districts**.
+* Updates automatically based on data.
+
+---
+
+## ⚡ **Performance Notes**
+
+* Pages load fast due to smart caching.
+* No double-clicks needed.
+* Smooth navigation across sections.
+* Data updates instantly on selection.
+
+---
+
+## ✅ **Best Practices for Users**
+
+✔ Always verify **High Risk** districts first
+✔ Use **Blockchain Audit** for data verification
+✔ Check **Audit Logs** for accountability
+✔ Customize background for comfort
+✔ Use AI Assistant for quick help
+
+---
+
+## 🎯 **Summary**
+
+This system helps users:
+
+* Detect duplicate enrollment risks
+* Verify data integrity using blockchain
+* Monitor suspicious regions
+* Maintain secure audit trails
+* Navigate easily with a modern interface
+
+---
+
+Just tell me what you want next 😊
