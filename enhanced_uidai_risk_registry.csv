@@ -1,0 +1,43 @@
+state,district,enrollments,demo_updates,bio_updates,risk_score,risk_level
+Telangana,Adilabad,1563,43303.0,117396.0,45130.25,High
+Telangana,Bhadradri Kothagudem,1060,37650.0,36555.0,22740.25,High
+Telangana,Hanumakonda,781,23639.0,21778.0,14030.55,High
+Telangana,Hyderabad,3721,220809.0,318017.0,158275.8,High
+Telangana,Jagitial,967,19597.0,18484.0,11866.75,High
+Telangana,Jangaon,84,1067.0,1459.0,771.8,Low
+Telangana,Jangoan,649,17807.0,15714.0,10420.55,High
+Telangana,Jayashankar Bhupalpally,475,16976.0,10787.0,8828.349999999999,High
+Telangana,Jogulamba Gadwal,569,33578.0,19255.0,16793.65,High
+Telangana,K.v. Rangareddy,5401,201494.0,352475.0,160802.05,High
+Telangana,Kamareddy,1006,28494.0,26086.0,16896.8,High
+Telangana,Karimnagar,3450,85793.0,192698.0,79582.05,High
+Telangana,Khammam,1910,58641.0,91719.0,44218.1,High
+Telangana,Komaram Bheem,488,30081.0,18958.0,15463.05,High
+Telangana,Mahabubabad,800,27486.0,18487.0,14561.849999999999,High
+Telangana,Mahabubnagar,3786,97967.0,267662.0,102718.35,High
+Telangana,Mancherial,792,31496.0,23852.0,17303.399999999998,High
+Telangana,Medak,3675,60863.0,182958.0,68511.55,High
+Telangana,Medchal Malkajgiri,2,0.0,0.0,0.8,Low
+Telangana,Medchal-malkajgiri,1453,103594.0,55308.0,50666.09999999999,High
+Telangana,Medchal?malkajgiri,2,305.0,886.0,329.05,Low
+Telangana,Medchal−malkajgiri,389,2060.0,10935.0,3610.35,Medium
+Telangana,Mulugu,490,13586.0,10846.0,7662.599999999999,High
+Telangana,Nagarkurnool,819,22708.0,22773.0,13968.65,High
+Telangana,Nalgonda,2864,81841.0,196452.0,78902.95,High
+Telangana,Narayanpet,609,26659.0,16218.0,13628.75,High
+Telangana,Nirmal,664,38160.0,21713.0,19049.85,High
+Telangana,Nizamabad,2620,73902.0,163314.0,67742.2,High
+Telangana,Peddapalli,494,12194.0,13248.0,7777.5,High
+Telangana,Rajanna Sircilla,524,12871.0,14054.0,8227.95,High
+Telangana,Ranga Reddy,1,0.0,0.0,0.4,Low
+Telangana,Rangareddy,206,7080.0,5553.0,3948.65,Medium
+Telangana,Sangareddy,1317,43964.0,38186.0,25460.699999999997,High
+Telangana,Siddipet,1190,40437.0,32084.0,22649.949999999997,High
+Telangana,Suryapet,955,56501.0,32923.0,28388.1,High
+Telangana,Vikarabad,1042,66159.0,32092.0,31595.449999999997,High
+Telangana,Wanaparthy,692,26570.0,20174.0,14619.8,High
+Telangana,Warangal,2131,31751.0,126018.0,43469.75,High
+Telangana,Warangal (urban),5,155.0,241.0,116.5,Low
+Telangana,Warangal Rural,591,20749.0,15301.0,11323.8,High
+Telangana,Warangal Urban,429,15958.0,14063.0,9272.65,High
+Telangana,Yadadri.,814,39991.0,23368.0,20164.449999999997,High

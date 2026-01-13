@@ -1,0 +1,4 @@
+username,password,role,state,district
+admin,admin123,ADMIN,ALL,ALL
+ap_officer,ap123,STATE,Andhra Pradesh,ALL
+vizag_user,vizag123,DISTRICT,Andhra Pradesh,Visakhapatnam
