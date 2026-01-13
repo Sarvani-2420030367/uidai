@@ -40,6 +40,9 @@ or go to **Ports tab → click the globe icon 🌐**
 
 🎉 Your Streamlit app opens — fully online!
 
+
+username: admin
+password: admin123
 ---
 
 ## ⚠️ Important Notes
